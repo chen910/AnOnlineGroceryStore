@@ -1,0 +1,1 @@
+<?php \app\models\Customers::find()->all() ?>

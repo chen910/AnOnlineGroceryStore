@@ -1,0 +1,8 @@
+creditcard
+customer
+diliveraddress
+products
+store
+stuffs
+supplier
+taxs
